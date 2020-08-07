@@ -18,6 +18,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/naver/android/sampletv/TVMainActivity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/naver/android/sampletv/fragments/MediaBrowswerFragment.kt">
           <value>
             <set />
@@ -28,7 +33,32 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/naver/android/sampletv/models/TvMediaBackground.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/naver/android/sampletv/models/TvMediaCollection.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/com/naver/android/sampletv/models/TvMediaMetadata.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/naver/android/sampletv/presenters/TvMediaMetadataPresenter.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/naver/android/sampletv/utils/TvLauncherUtils.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/com/naver/android/sampletv/workers/TvMediaSynchronizer.kt">
           <value>
             <set />
           </value>
@@ -43,7 +73,22 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/res/values/strings.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../tv-samples/ClassicsKotlin/app/src/main/AndroidManifest.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../tv-samples/ClassicsKotlin/app/src/main/java/com/android/tv/classics/fragments/MediaBrowserFragment.kt">
           <value>
             <set />
           </value>

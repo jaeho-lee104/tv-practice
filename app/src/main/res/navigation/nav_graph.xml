@@ -24,7 +24,7 @@
         android:label="Playing">
         <argument
             android:name="metadata"
-            app:argType="com.android.tv.classics.models.TvMediaMetadata" />
+            app:argType="com.naver.android.sampletv.models.TvMediaMetadata" />
     </fragment>
 
 </navigation>

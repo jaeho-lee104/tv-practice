@@ -24,10 +24,6 @@ A
 settings.gradle,0/5/05efc8b1657769a27696d478ded1e95f38737233
 n
 >app/src/main/java/com/naver/android/sampletv/TVMainActivity.kt,8/e/8e10ad939a0e2951f468036f7ec8389a32a53a72
-Y
-)app/src/main/res/navigation/nav_graph.xml,b/a/baffce053da291d96fb575a09f2bbe9aaa9c4be9
-S
-#app/src/main/res/values/strings.xml,d/2/d2281fbb3027de2722081a53408dd77628bf080e
 y
 Iapp/src/main/java/com/naver/android/sampletv/fragments/PlayingFragment.kt,3/b/3beaa82dcf2c967aedbb0825e52430e055334f67
 @
