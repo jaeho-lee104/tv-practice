@@ -13,6 +13,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/build/generated/source/navigation-args/debug/com/naver/android/sampletv/SampleTT.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
           <value>
             <set />
@@ -89,6 +94,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/../tv-samples/ClassicsKotlin/app/src/main/java/com/android/tv/classics/fragments/MediaBrowserFragment.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../tv-samples/ClassicsKotlin/app/src/main/java/com/android/tv/classics/fragments/NowPlayingFragment.kt">
           <value>
             <set />
           </value>
